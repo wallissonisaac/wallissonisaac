@@ -3,8 +3,8 @@
 </h1>
 
 - 👋 Hi, I’m Wallisson Isaac from Brazil (🇧🇷) and I decided to head into in this Development's World. I'm studying some projects proposed by the RocketSeat, Alura and other courses' area. Nowadays, I'm a informatic professional.
-- 👀 I’m interested in JavaScript, Typescript, ReactJS, NextJS and Java.
-- 🌱 I’m currently learning JavaScript Stacks.
+- 👀 I’m interested in Java, Spring, Angular, JavaScript, Typescript.
+- 🌱 I’m currently learning NodeJS.
 - 💞️ I’m looking to collaborate on future projects in enterprises focused in development.
 
 Would you like to find me?
